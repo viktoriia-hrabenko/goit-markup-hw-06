@@ -929,6 +929,14 @@ img {
   margin-top: 4px;
 }
 
+.label-box {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  height: 40px;
+  width: 448px;
+}
+
 .input-form {
   height: 40px;
   width: 448px;
@@ -1034,23 +1042,22 @@ img {
 }
 
 
-
 .label-box input {
   padding-left: 42px;
 }
 
 .name-svg {
-  margin-top: 14px;
+  margin-top: 6px;
   margin-left: 15px;
 }
 
 .tel-svg {
-  margin-top: 13.26px;
+  margin-top: 5.26px;
   margin-left: 14.27px;
 }
 
 .mail-svg {
-  margin-top: 14px;
+  margin-top: 6px;
   margin-left: 13.5px;
 }
 
